@@ -16,5 +16,6 @@
    git checkout master
    git merge dev
    master modefied
+   dev modefied
   </body>
 </html>
